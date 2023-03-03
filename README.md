@@ -1,3 +1,4 @@
+#HA:03.03.2023
 # Calculator
 Erstellen Sie eine Webseite für eine Taschenrechneroberfläche mit den Grundrechenarten. 
 Nutzen Sie dafür die Webtechnologien, welche Sie bereits kennen. 
